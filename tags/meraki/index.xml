@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>meraki on Ruy IT Pro</title>
-    <link>/tags/meraki/</link>
+    <link>https://www.ruyitpro.com/tags/meraki/</link>
     <description>Recent content in meraki on Ruy IT Pro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Feb 2023 15:39:02 -0500</lastBuildDate><atom:link href="/tags/meraki/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 15:39:02 -0500</lastBuildDate><atom:link href="https://www.ruyitpro.com/tags/meraki/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Article5</title>
-      <link>/troubleshooting/article5/</link>
+      <link>https://www.ruyitpro.com/troubleshooting/article5/</link>
       <pubDate>Mon, 27 Feb 2023 15:39:02 -0500</pubDate>
       
-      <guid>/troubleshooting/article5/</guid>
+      <guid>https://www.ruyitpro.com/troubleshooting/article5/</guid>
       <description>This post is outside Post I don&amp;rsquo;t have much to say</description>
     </item>
     
     <item>
       <title>Article1</title>
-      <link>/post/article1/</link>
+      <link>https://www.ruyitpro.com/post/article1/</link>
       <pubDate>Sat, 25 Feb 2023 21:11:33 -0500</pubDate>
       
-      <guid>/post/article1/</guid>
+      <guid>https://www.ruyitpro.com/post/article1/</guid>
       <description>This is a heading one This is a heading two This is a paragraph.</description>
     </item>
     
