@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Ruy IT Pro</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Ruy IT Pro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Feb 2023 15:39:02 -0500</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>trouble</title>
+      <link>/categories/trouble/</link>
+      <pubDate>Mon, 27 Feb 2023 15:39:02 -0500</pubDate>
+      
+      <guid>/categories/trouble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>/categories/network/</link>
+      <pubDate>Sat, 25 Feb 2023 21:11:33 -0500</pubDate>
+      
+      <guid>/categories/network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
