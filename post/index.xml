@@ -6,42 +6,25 @@
     <description>Recent content in Posts on Ruy IT Pro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Feb 2023 15:32:21 -0500</lastBuildDate><atom:link href="https://www.ruyitpro.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jul 2023 08:48:34 -0400</lastBuildDate><atom:link href="https://www.ruyitpro.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article4</title>
-      <link>https://www.ruyitpro.com/post/trouble/article4/</link>
-      <pubDate>Mon, 27 Feb 2023 15:32:21 -0500</pubDate>
+      <title>First Ansible Playbook</title>
+      <link>https://www.ruyitpro.com/post/firstansibleplaybook/</link>
+      <pubDate>Fri, 07 Jul 2023 08:48:34 -0400</pubDate>
       
-      <guid>https://www.ruyitpro.com/post/trouble/article4/</guid>
-      <description>Este es el Primer post de trouble shooting </description>
+      <guid>https://www.ruyitpro.com/post/firstansibleplaybook/</guid>
+      <description>Add a Syslog Server to all your Meraki MX devices using ANSIBLE. List all the MERAKI devices on your organization. (Or the ones you want to affect with this playbook)
+One easy way to do that is to use POSTMAN. We can take advantage of the MERAKI collection available. For this case we will use the List the Netowrks in an Organitation API call
+GET {{baseUrl}}/organizations/:organizationId/networks This API call will return the list of all networks (in our cas all of them are MX devices).</description>
     </item>
     
     <item>
-      <title>Article3</title>
-      <link>https://www.ruyitpro.com/post/blog/article3/</link>
-      <pubDate>Mon, 27 Feb 2023 15:30:19 -0500</pubDate>
-      
-      <guid>https://www.ruyitpro.com/post/blog/article3/</guid>
-      <description>Este es el primer post en el Blog </description>
-    </item>
-    
-    <item>
-      <title>Article2</title>
+      <title>Reference Sites</title>
       <link>https://www.ruyitpro.com/post/article2/</link>
       <pubDate>Sat, 25 Feb 2023 21:47:57 -0500</pubDate>
       
       <guid>https://www.ruyitpro.com/post/article2/</guid>
-      <description>This is a heading one This is a heading two This is a paragraph.
-This site was created based on this video https://www.youtube.com/watch?v=hjD9jTi_DQ4</description>
-    </item>
-    
-    <item>
-      <title>Article1</title>
-      <link>https://www.ruyitpro.com/post/article1/</link>
-      <pubDate>Sat, 25 Feb 2023 21:11:33 -0500</pubDate>
-      
-      <guid>https://www.ruyitpro.com/post/article1/</guid>
-      <description>This is a heading one This is a heading two This is a paragraph.</description>
+      <description>This site was created based on this video https://www.youtube.com/watch?v=hjD9jTi_DQ4</description>
     </item>
     
   </channel>
